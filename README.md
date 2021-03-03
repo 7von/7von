@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @7von
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on a future application called a personal calculator
+- 💞️ My linkedin URL is linkedin.com/in/cevonsieh
 - 📫 How to reach me cevon.sieh@zohomail.com
 
 <!---
